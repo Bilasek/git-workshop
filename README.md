@@ -52,7 +52,6 @@ Merge made by the 'recursive' strategy.
  create mode 100644 src/main/resources/01c.gif
 ```
 
-During the procedure you will most likely be prompted (by opened text editor window) to enter a merge message. You can safely save and close the window.
 
 ## After finishing the work on iteration
 
